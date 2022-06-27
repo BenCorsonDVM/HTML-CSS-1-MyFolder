@@ -1,0 +1,40 @@
+h1 {
+    color: goldenrod
+}
+h2 {
+    color: red
+}
+li {
+    color:blue
+}
+th, td {
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+th, td {
+    background: black;
+}
+audio {
+    border:10px solid black;
+}
+video {
+    border:10px solid pink;
+}
+div {
+    box-shadow: 10px 10px 8px #888888
+}
+div {
+    width: auto;
+    height: auto;
+    padding: 50px;
+    border: 5px solid blue;
+    box-sizing: border-box;
+}
+button:hover {
+    color: gold
+}
+audio {
+    float: right;
+    padding: 1px;
+}
